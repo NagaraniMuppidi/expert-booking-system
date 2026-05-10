@@ -233,8 +233,8 @@ This approach is simple and fits the project well since I wanted to avoid using 
 
 ## 15. Author
 
-**Name:** YASHRAJ SINGH RATHORE
-**Course:** B.Tech IT
+**Name:** NAGARANI MUPPIDI
+**Course:** B.Tech CSE
 **Project:** Real-Time Expert Session Booking System
 **Role:** Full-stack development and UI implementation
 
